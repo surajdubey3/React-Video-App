@@ -1,2 +1,2 @@
-Hii I am Suraj Dubey. Welcome to the Video Player App repository! This is a versatile video player application designed to provide a seamless viewing experience with support for various video formats and playback features.
+Hii I am Suraj Dubey. Welcome to the Video Player App repository! In this vedio player app i am using Chakra-UI. This is a versatile video player application designed to provide a seamless viewing experience with support for various video formats and playback features.
 The Video Player App is a cross-platform application that supports a wide range of video formats and offers features such as subtitle support, adjustable playback speed, and a customizable user interface.
